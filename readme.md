@@ -19,7 +19,7 @@
 4. Scroll to the Appearence section.
 5. Select your desired UI and Code Editor theme. (Rosé Pine is avilable as both a UI and Code Editor theme)
 
-Note: If you do not see Rosé Pine listed, you may need to update your GDevelop installation.
+If you are unable to find Rosé Pine in the list of themes you may need to update your GDevelop installation to the latest version, if you have not done so already. If you are using the web editor, you may need to wait for the latest release of GDevelop to be published.
 
 ## Gallery
 
