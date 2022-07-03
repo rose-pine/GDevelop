@@ -29,7 +29,7 @@ Note: If you do not see Rosé Pine listed, you may need to update your GDevelop 
 ![Screenshot](https://user-images.githubusercontent.com/98765025/177050469-e5efc7f8-0206-4a19-811c-65339f23a40a.png)
 ![Screenshot](https://user-images.githubusercontent.com/98765025/177050475-b261fb15-eed3-4565-9abd-f9fce9d40084.png)
 ![Screenshot](https://user-images.githubusercontent.com/98765025/177050481-170095f6-971a-4ba7-b1ec-5fea943485a5.png)
-![Screenshot(https://user-images.githubusercontent.com/98765025/177050483-4b1c69fe-8266-4bca-94f1-90b907ae4020.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050483-4b1c69fe-8266-4bca-94f1-90b907ae4020.png)
 
 
 ## Thanks to
