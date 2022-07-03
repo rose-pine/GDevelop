@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for GDevelop</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,17 +13,22 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open [GDevelop](https://gdevelop.io), and if you have not already [download](https://gdevelop.io/download) and install it, or open the [web editor](https://editor.gdevelop.io/).
+2. Navigate to the fly-out menu in the top-right corner.
+3. Navigate to the Preferences pannel.
+4. Scroll to the Appearence section.
+5. Select your desired UI and Code Editor theme. (Rosé Pine is avilable as both a UI and Code Editor theme)
+
+Note: If you do not see Rosé Pine listed, you may need to update your GDevelop installation.
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Screenshot](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Ehan Ahamed](https://github.com/EhanAhamed)
+- [GDevelop Maintainers & Contributors](https://github.com/4ain/GDevelop)
 
 ## Contributing
 
