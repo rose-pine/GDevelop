@@ -23,7 +23,14 @@ Note: If you do not see Rosé Pine listed, you may need to update your GDevelop 
 
 ## Gallery
 
-![Screenshot](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050455-1c98037f-c746-491e-8706-61ce288bb8b3.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050463-8af78e6e-0e93-45b7-a537-8741b055512b.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050465-00b960e8-ddc2-4ea4-8541-313dddda7481.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050469-e5efc7f8-0206-4a19-811c-65339f23a40a.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050475-b261fb15-eed3-4565-9abd-f9fce9d40084.png)
+![Screenshot](https://user-images.githubusercontent.com/98765025/177050481-170095f6-971a-4ba7-b1ec-5fea943485a5.png)
+![Screenshot(https://user-images.githubusercontent.com/98765025/177050483-4b1c69fe-8266-4bca-94f1-90b907ae4020.png)
+
 
 ## Thanks to
 
@@ -32,19 +39,4 @@ Note: If you do not see Rosé Pine listed, you may need to update your GDevelop 
 
 ## Contributing
 
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
 
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
