@@ -34,3 +34,20 @@ If Rosé Pine is not in the list of themes, be sure to update GDevelop to the la
 
 - [Ehan Ahamed](https://github.com/EhanAhamed)
 - [GDevelop Maintainers & Contributors](https://github.com/4ain/GDevelop)
+
+## Contributing
+
+Themes for GDevelop are created in it's own [github repository](https://github.com/4ian/GDevelop/).
+
+To contribute to the Rosé Pine GDevelop theme, navigate to the following files in GDevelop's repository and make any necessary changes:
+
+- [`./newIDE/app/src/CodeEditor/Theme/RosePine.js`](https://github.com/4ian/GDevelop/blob/master/newIDE/app/src/CodeEditor/Theme/RosePine.js)
+
+- [`./newIDE/app/src/UI/Theme/RosePineTheme/index.js`](https://github.com/4ian/GDevelop/blob/master/newIDE/app/src/UI/Theme/RosePineTheme/index.js)
+- [`./newIDE/app/src/UI/Theme/RosePineTheme/theme.json`](https://github.com/4ian/GDevelop/blob/master/newIDE/app/src/UI/Theme/RosePineTheme/theme.json)
+
+Read GDevelop's [Contributor Documentation on Themes](https://github.com/4ian/GDevelop/blob/master/newIDE/README-themes.md) for more info on building, testing, and editing themes and [setting up a GDevelop contributor environment](https://github.com/4ian/GDevelop/tree/master/newIDE#1-installation-).
+
+Open a pull request in GDevelop's github repository to contribute your changes.
+
+For further contributor documentation refer to GDevelop's own documentation and forums.
