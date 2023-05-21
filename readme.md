@@ -14,10 +14,11 @@
 ## Usage
 
 1. Download [GDevelop](https://gdevelop.io/download) or open the [web editor](https://editor.gdevelop.io/)
-2. Navigate to the fly-out menu in the top-right corner
-3. Under Preferences &rarr; Appearance, select Rosé Pine as your UI and Code Editor theme
+2. Navigate to the menu in the top-right corner
+3. Select File and then select Preferences
+4. Under Appearance, select Rosé Pine as your UI and Code Editor theme
 
-If Rosé Pine is not in the list of themes, be sure to update GDevelop to the latest version. If you are using the web editor, you may need to wait for the latest release of GDevelop to be published.
+If Rosé Pine is not in the list of themes, be sure to update GDevelop to the latest version.
 
 ## Gallery
 
